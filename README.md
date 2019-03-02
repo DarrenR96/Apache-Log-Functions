@@ -1,5 +1,7 @@
 # Apache-Log-Functions
 Useful scripts for parsing Apache Log Files. 
+Used on Python 3.7. 
+Must have the [pandas library](https://pandas.pydata.org/) installed. 
 
 This script can be used to parse Log files from its inital format to a csv format through the use of the [Regular Expression Library](https://docs.python.org/3/library/re.html). 
 
