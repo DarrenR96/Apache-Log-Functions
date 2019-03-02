@@ -6,8 +6,10 @@ This script can be used to parse Log files from its inital format to a csv forma
 This library provides the functionality for: 
 ### Returns list of logs from logfile
 ```python
-`listOfLogs = logToList(logfile):`
+listOfLogs = logToList(logfile):
+```
 
 ### Returns a Pandas dataframe from log file
 ```python 
-`dataframe = dataframeLog(access_logs, access)
+dataframe = dataframeLog(access_logs, access)
+```
