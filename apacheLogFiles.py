@@ -1,5 +1,5 @@
 # Author: Darren Ramsook
-# Version: 0.2alpha
+# Version: 1
 # Find out more: www.DarrenR.co.tt
 import re
 import pandas as pd
